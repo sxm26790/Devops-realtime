@@ -22,4 +22,4 @@ sample
 07-12-2022 --> Today is Wednesday
 08-12-2022
 19-12-2022
-15-02-2023
+15-02-2023 --> Today is Tuesday
